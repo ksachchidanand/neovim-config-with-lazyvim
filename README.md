@@ -1,1 +1,3 @@
-# neovim config: A lazyvim fork
+# neovim: A lazyvim config fork
+
+
