@@ -140,14 +140,14 @@ return {
 		},
 	},
 
-	{
-		"nvim-telescope/telescope-file-browser.nvim",
-		theme = "catppuccin",
-		version = false,
-		keys = {
-			{ "<leader>e", "<cmd>Telescope file_browser<cr>" },
-		},
-	},
+	-- {
+	-- 	"nvim-telescope/telescope-file-browser.nvim",
+	-- 	theme = "catppuccin",
+	-- 	version = false,
+	-- 	keys = {
+	-- 		{ "<leader>e", "<cmd>Telescope file_browser<cr>" },
+	-- 	},
+	-- },
 
 	-- Flash enhances the built-in search functionality by showing labels
 	-- at the end of each match, letting you quickly jump to a specific
